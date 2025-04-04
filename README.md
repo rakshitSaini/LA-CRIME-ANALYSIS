@@ -4,6 +4,8 @@ LA Crime Analysis – I chose this project because everyone dreams of buying a h
 
 LA is a highly competitive and expensive market, with a median home price of around $1.1 million and a high cost of living. Crime is also a significant factor to consider when making a decision.
 
+
+
 #Problem Satement: Finding a Safe Area to Buy a House in Los Angeles with less Cirmes  
 
 ## Project Overview  
@@ -11,7 +13,8 @@ This project analyzes crime data in Los Angeles to identify the safest areas for
 
 
 ## Dataset  
-- **Source**: Crime Data from 2020 to Present (LAPD)  
+- **Source**: Crime Data from 2020 to Present (LAPD)
+- 1 Million + rows and 28 Columns  
 - **Key Features**:  
   - Area Code  
   - Crime Type  
