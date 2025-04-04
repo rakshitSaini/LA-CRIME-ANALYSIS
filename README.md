@@ -1,4 +1,4 @@
-# LA-CRIME-ANALYSIS
+# CRIME ANALYSIS FOR HOMEBUYERS IN LOS ANGELES
 
 LA Crime Analysis – I chose this project because everyone dreams of buying a house in Los Angeles. It's better to plan everything in advance, so one night, I was thinking about how I could achieve that and where I would buy a house in Los Angeles. I started searching for datasets related to LA and found one with crime reports. That’s when I thought, why not start with this?
 
